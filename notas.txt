@@ -1,0 +1,57 @@
+Componentes:
+
+-------------------------------------------------------------------------
+
+TITULOS:
+
+-Olá, mundo!
+-Bem-vindo ao meu portfólio.
+-Quem é Matheus?
+-Minha Formação
+-Principais Tecnologias
+-Meus Projetos
+-Entre em contato
+
+-------------------------------------------------------------------------
+
+TEXTOS:
+
+-Sou Desenvolvedor Front-End Freelancer, estudante em ADS e apaixonado por escrever códigos!
+
+-Cursando Técnólogo em Analise e desenvolvimento de sistemas pela UNINOVE.
+Formação
+
+-Programar é dar vida a idéias, é fazer do pensamento, criação.
+
+-------------------------------------------------------------------------
+
+BOTÃO:
+
+-Matheus de Andrade / Desenvolvedor Front-End
+-Voltar
+
+-------------------------------------------------------------------------
+
+IMAGEM: //Estilos Diferente para as 3
+
+-Programação/Jogo/Imagem de algo relacionado a dev.
+-Minha Foto Profissional
+-Foto de um Campo aberto
+
+-------------------------------------------------------------------------
+
+TECNOLOGIAS:
+
+-HTML
+-CSS
+-JavaScript
+-React
+-Linkedin
+-GitHub
+-Email
+
+-------------------------------------------------------------------------
+
+MEUS PROJETOS:
+
+- CardComponente quadrado com titulo, foto, descrição e botão

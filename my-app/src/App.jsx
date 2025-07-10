@@ -1,12 +1,21 @@
 import './App.css'
-import Footer from './components/Footer'
+import SectionBoasVindas from './sections/SectionBoasVindas'
+import SectionSobreMim from './sections/SectionSobreMim'
+import SectionFormacaoTecnologia from './sections/SectionFormacaoTecnologia'
+import SectionFrase from './sections/SectionFrase'
+import SectionMeusProjetos from './sections/SectionMeusProjetos'
+import SectionContato from './sections/SectionContato'
 
 function App() {
   return (
-    <>
-      <Footer/>
-      <PaginaInicial/>
-    </>
+    <main>
+      <SectionBoasVindas/>
+      <SectionSobreMim/>
+      <SectionFormacaoTecnologia/>
+      <SectionFrase/>
+      <SectionMeusProjetos/>
+      <SectionContato/>
+    </main>
   )
 }
 

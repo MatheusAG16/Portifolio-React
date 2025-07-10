@@ -1,0 +1,24 @@
+.containerBoasVindas {
+    width: 50%;
+    
+}
+
+
+.paragrafoBoasVindas {
+    position: relative;
+    top: 5em;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: #8D8981;
+    width: 100%;
+    max-width: 380px;
+    padding: 15px;
+}
+
+.imagemBoasVindas {
+    width: 20em;
+    height: 20em;
+    border-radius: 100%;
+    background-color: aliceblue;
+    box-shadow: 5px 6px 8px 0px black;
+}

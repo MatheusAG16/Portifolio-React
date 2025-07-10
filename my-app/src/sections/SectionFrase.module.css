@@ -1,0 +1,19 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.container h1 {
+    max-width: 400px;
+    max-height: 500px;
+    line-height: 1.4em;
+}
+
+.imagemSectionFrase {
+    max-width: 40%;
+    object-fit: cover;
+    box-shadow: 14px 14px 20px 0px rgba(0, 0, 0, 0.288);
+    border-radius: 5px;
+}

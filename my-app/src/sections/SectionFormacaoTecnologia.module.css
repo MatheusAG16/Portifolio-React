@@ -1,0 +1,36 @@
+.containerTitulo {
+    display: flex;
+    justify-content: space-around;
+    gap: 4em;
+    max-width: 768px;
+}
+
+.containerTecnologia {
+    width: 90%;
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    justify-items: center;
+}
+
+.subTituloTecnologias {
+    grid-column: 1 / -1;
+    text-align: center;
+}
+
+.listaFormacao {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.listaFormacao h2 {
+    align-self: flex-start;
+    padding: 10px 0;
+}
+
+.listaFormacao li {
+    color: #c2c2c2;
+}

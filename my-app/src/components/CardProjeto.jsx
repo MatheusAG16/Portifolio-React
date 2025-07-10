@@ -1,25 +1,15 @@
-const cardStyle = {
-  border: '1px solid #ddd',
-  borderRadius: '8px',
-  padding: '1rem',
-  margin: '1rem',
-  width: '300px',
-  boxShadow: '0 2px 5px rgba(0,0,0,0.1)'
-};
+import cardProjetoStyle from './CardProjeto.module.css'
 
 function CardProjeto({projeto}) {
+
     return(
-        <div>
-            <h3>{projeto.titulo}</h3>
-            <p>{projeto.descricaoCurta}</p>
-            <div>
-                {projeto.tecnologias.map(tech => (
-                    <span 
-                    key={tech} 
-                    style={{ marginRight: '5px', backgroundColor: '#e9ecef', padding: '2px 5px', borderRadius: '3px', fontSize: '12px' }}>
-                    </span>
-                ))}
-            </div>
+        
+        <div className={cardProjetoStyle.itemProjeto}>
+            <a href={projeto.link} target='_blank'>
+                <img className={cardProjetoStyle.imgProjeto} src={projeto.img}/>
+                <h2 className={cardProjetoStyle.tituloProjeto}>{projeto.titulo}</h2>
+                <p className={cardProjetoStyle.breveDescricao}>{projeto.breveDescricao}</p>
+            </a>
         </div>
     );
 }

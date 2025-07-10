@@ -1,0 +1,18 @@
+.containerCarrossel {
+    width: 100%;
+    max-width: 500px;
+}
+
+.containerCarrossel :global(.swiper-button-next), .containerCarrossel :global(.swiper-button-prev) {
+    color: gray;
+}
+
+.containerCarrossel :global(.swiper-pagination-bullet-active){
+    background-color: gray;
+}
+
+.containerWrapper {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4em;
+}

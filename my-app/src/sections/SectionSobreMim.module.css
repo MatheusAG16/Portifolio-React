@@ -1,0 +1,31 @@
+.containerSobreMim {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+}
+
+.paragrafoSobreMim{
+    width: 300px;
+}
+
+hr {
+    position: relative;
+    bottom: 30px;
+    width: 40%;
+}
+
+.imagemSobreMim {
+    border-radius: 25px;
+    animation: flutuar 1.3s infinite alternate;
+}
+
+@keyframes flutuar {
+  from {
+    transform: translateY(0px);
+  }
+
+  to {
+    transform: translateY(-8px);
+  }
+}

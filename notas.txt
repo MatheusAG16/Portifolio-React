@@ -4,8 +4,7 @@ Componentes:
 
 TITULOS:
 
--Olá, mundo!
--Bem-vindo ao meu portfólio.
+-Olá, mundo! Bem-vindo ao meu portfólio.
 -Quem é Matheus?
 -Minha Formação
 -Principais Tecnologias
@@ -25,7 +24,7 @@ Formação
 
 -------------------------------------------------------------------------
 
-BOTÃO:
+Elemento decorativo (botão):
 
 -Matheus de Andrade / Desenvolvedor Front-End
 -Voltar

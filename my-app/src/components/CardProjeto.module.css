@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+}
+
+.imgProjeto {
+    max-width: 100%;
+    transition: all .4s ease-in-out;
+
+}
+
+.imgProjeto:hover {
+    transform: scale(1.1);
+    transform: translateY(-20px);
+}

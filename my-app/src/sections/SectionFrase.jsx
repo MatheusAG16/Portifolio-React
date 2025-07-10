@@ -1,15 +1,20 @@
 import layoutStyle from "./Section.module.css"
 import sectionFrase from "./SectionFrase.module.css"
 import Titulo from "../components/Titulo";
+import AnimaAoAparecer from "../animation/AnimaAoAparecer";
 
 function SectionFrase() {
     return(
-        <section className={layoutStyle.section}>
-            <div className={sectionFrase.container}>
-                <Titulo>Código é a poesia da lógica, escrita para resolver problemas humanos.</Titulo>
-                <img src="https://nerdizmo.ig.com.br/wp-content/uploads/2024/02/netflix-e-studio-ghibli-capa.jpg" className={sectionFrase.imagemSectionFrase} />
-            </div>
-        </section>
+            <section className={layoutStyle.section}>
+                <div className={sectionFrase.container}>
+                    
+                    <Titulo>Código é a poesia da lógica, escrita para resolver problemas humanos.</Titulo>
+                    
+                    <AnimaAoAparecer>
+                        <img src="https://nerdizmo.ig.com.br/wp-content/uploads/2024/02/netflix-e-studio-ghibli-capa.jpg" className={sectionFrase.imagemSectionFrase} />
+                    </AnimaAoAparecer>
+                </div>
+            </section>
     )
 }
 

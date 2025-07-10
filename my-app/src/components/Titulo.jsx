@@ -1,8 +1,9 @@
 import styles from './Titulo.module.css'
+import AnimaAoAparecer from '../animation/AnimaAoAparecer';
 
 function Titulo({children}) {
     return(
-        <h1 className={styles.titulo}>{children}</h1>
+        <AnimaAoAparecer><h1 className={styles.titulo}>{children}</h1></AnimaAoAparecer>
     )
 }
 

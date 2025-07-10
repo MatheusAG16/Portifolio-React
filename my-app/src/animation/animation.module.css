@@ -1,0 +1,13 @@
+/*Arquivo para criar animação fade-in*/
+
+.fadeIn {
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: all 1s ease-in-out;
+    will-change: opacity, transform;
+}
+
+.isVisible {
+    opacity: 1;
+    transform: translateY(0);
+}

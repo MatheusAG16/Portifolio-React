@@ -41,7 +41,7 @@ Para clonar e rodar esta aplicação localmente, você precisará ter [Git](http
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/MatheusAG16/Portifolio-React](https://github.com/MatheusAG16/Portifolio-React)
+git clone [clone](https://github.com/MatheusAG16/Portifolio-React)
 
 # 2. Acesse a pasta do projeto
 cd my-app

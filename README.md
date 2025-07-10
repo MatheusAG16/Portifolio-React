@@ -1,6 +1,6 @@
 # 🚀 Bem-vindo ao meu Portfólio Pessoal
 
-![Demonstração do Portfólio](https://imgur.com/HwswFgC)
+![Demonstração do Portfólio](https://imgur.com/HwswFgC](https://i.imgur.com/HwswFgC.png)
 
 > Este é o repositório do meu portfólio pessoal, uma Single-Page Application (SPA) desenvolvida com React para apresentar minhas habilidades, projetos e jornada como desenvolvedor Front-End. O projeto foi construído do zero, aplicando conceitos modernos e as melhores práticas do React.
 

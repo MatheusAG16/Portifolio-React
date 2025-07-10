@@ -1,18 +1,18 @@
 const listaDeProjetos = [
     {
         id: '1',
-        titulo: 'Sudoku Online',
-        img: 'https://matheusag16.github.io/meu-portifolio/images/sudoku-intro.jpg',
-        link: 'https://matheusag16.github.io/Sudoku/',
-        breveDescricao: 'Gerador de Sudoku com níveis de dificuldade.',
-        descricao: ''
-    },
-    {
-        id: '2',
         titulo: 'Como Treina',
         img: 'https://projeto-como-treina.netlify.app/images/logo-cm.png',
         link: 'https://projeto-como-treina.netlify.app/',
         breveDescricao: 'Seu guia de treino para aprender a executar exercícios.',
+        descricao: ''
+    },
+    {
+        id: '2',
+        titulo: 'Sudoku Online',
+        img: 'https://matheusag16.github.io/meu-portifolio/images/sudoku-intro.jpg',
+        link: 'https://matheusag16.github.io/Sudoku/',
+        breveDescricao: 'Gerador de Sudoku com níveis de dificuldade.',
         descricao: ''
     },
     {

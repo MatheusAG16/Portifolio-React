@@ -1,8 +1,13 @@
 .container {
-    max-width: 200px;
+    min-width: 100px;
+    max-width: 150px;
     border-radius: 10px;
     text-align: center;
     transition: all .2s ease;
+}
+
+.container h1 {
+    font-size: 1em;
 }
 
 .imagemProjeto {

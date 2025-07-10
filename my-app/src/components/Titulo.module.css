@@ -2,3 +2,10 @@
   font-size: 4rem;
   color: #f6f6f6;
 }
+
+@media screen and (max-width: 768px) {
+  .titulo {
+    font-size: 2rem;
+    text-align: center;
+  }
+}

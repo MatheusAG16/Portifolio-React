@@ -7,7 +7,7 @@ function SectionSobreMim() {
         <section className={layoutStyles.section}>
             <div className={stylesSobreMim.containerSobreMim}>
                 <Titulo>Quem é Matheus?</Titulo>
-                <p className={stylesSobreMim.paragrafoSobreMim}>Sou Desenvolvedor Front-End Freelancer, estudante em ADS e apaixonado por escrever códigos!<br/></p>
+                <p className={stylesSobreMim.paragrafoSobreMim}>Sou Desenvolvedor Front-End Freelancer, estudante de Analise e Desenvolvimento de Sistemas e apaixonado por escrever códigos!<br/></p>
                 <hr/>
             </div>
             <img src='https://matheusag16.github.io/meu-portifolio/images/foto-perfil-att.jpeg' className={stylesSobreMim.imagemSobreMim}/>

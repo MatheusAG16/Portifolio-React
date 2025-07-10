@@ -1,13 +1,9 @@
 import layoutStyle from './Section.module.css'
 import styleFormacaoTecnologia from './SectionFormacaoTecnologia.module.css'
 import Titulo from '../components/Titulo';
-import CardRedondo from '../components/CardRedondo'
 
 //Import images
-import logoHtml from '../assets/html5.svg'
-import logoCss from '../assets/CSS3.svg'
-import logoJavaScript from '../assets/Javascript.svg'
-import logoReact from '../assets/react2.svg'
+import CarrosselTecnologia from '../components/CarrosselTecnologia';
 
 
 function SectionFormacaoTecnologia() {
@@ -23,12 +19,20 @@ function SectionFormacaoTecnologia() {
                 </ul>
             </div>
             <div className={styleFormacaoTecnologia.containerTecnologia}>
-                <CardRedondo img={logoHtml} title={'HTML 5'}/>
-                <CardRedondo img={logoCss} title={'CSS 3'}/>
-                <CardRedondo img={logoJavaScript} title={'JavaScript'}/>
-                <CardRedondo img={logoReact} title={'React'}/>
-                <h2 className={styleFormacaoTecnologia.subTituloTecnologias}>Tecnologias</h2>
-            </div>  
+                <CarrosselTecnologia/>
+            </div>
+            <ul className={styleFormacaoTecnologia.listaTecnologia}>
+                <li>HTML 5</li>
+                <li>CSS 3</li>
+                <li>JavaScript</li>
+                <li>React</li>
+                <li>Python</li>
+                <li>MySQL</li>
+                <li>Node.js</li>
+                <li>BootStrap</li>
+                <li>Java</li>
+                <li>WordPress</li>
+            </ul>
         </section>
         
     )

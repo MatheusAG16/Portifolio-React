@@ -1,18 +1,17 @@
 .containerBoasVindas {
-    width: 50%;
-    
+    width: 50%;   
 }
-
 
 .paragrafoBoasVindas {
     position: relative;
     top: 5em;
-    margin: 10px;
+    font-size: .8rem;
+    text-wrap: nowrap;
+    margin: 20px 0;
     border-radius: 20px;
     background-color: #8D8981;
-    width: 100%;
-    max-width: 380px;
     padding: 15px;
+    max-width: 307px;
 }
 
 .imagemBoasVindas {
@@ -21,4 +20,16 @@
     border-radius: 100%;
     background-color: aliceblue;
     box-shadow: 5px 6px 8px 0px black;
+}
+
+@media screen and (max-width: 768px){
+    .paragrafoBoasVindas {
+        justify-self: center;
+        position: static;
+    }
+
+    .imagemBoasVindas {
+        order: -1;
+        margin-bottom: 15px; 
+    }
 }

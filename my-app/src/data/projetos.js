@@ -35,7 +35,7 @@ const listaDeProjetos = [
         id: '5',
         titulo: 'Projeto Android',
         img: 'https://imgur.com/Plzw4Yd',
-        link: 'https://matheusag16.github.io/projeto-android/',
+        link: 'https://i.imgur.com/k2jAGUH.jpeg',
         breveDescricao: 'Tudo sobre o Android: história, conceitos e evolução.',
         descricao: ''
     },
@@ -43,7 +43,7 @@ const listaDeProjetos = [
         id: '6',
         titulo: 'Gerador de senha',
         img: 'https://matheusag16.github.io/meu-portifolio/images/gerador-de-senha-intro.jpg',
-        link: 'https://matheusag16.github.io/Gerador-de-Senha/',
+        link: 'https://i.imgur.com/ydbta6o.jpeg',
         breveDescricao: 'Gere senhas seguras instantaneamente. É só escolher o tamanho.',
         descricao: ''
     },

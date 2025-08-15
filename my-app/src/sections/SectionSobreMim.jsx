@@ -12,7 +12,7 @@ function SectionSobreMim() {
                     <hr/>
                 </div>
                 <AnimaAoAparecer>
-                    <img src='https://matheusag16.github.io/meu-portifolio/images/foto-perfil-att.jpeg' className={stylesSobreMim.imagemSobreMim}/>
+                    <img src='https://i.imgur.com/lF6MOee.jpeg' className={stylesSobreMim.imagemSobreMim}/>
                 </AnimaAoAparecer>
             </section>
     )

@@ -18,6 +18,8 @@ hr {
 .imagemSobreMim {
     border-radius: 25px;
     animation: flutuar 1.3s infinite alternate;
+    max-width: 100px;
+    aspect-ratio: 1/1;
 }
 
 @keyframes flutuar {

@@ -18,7 +18,7 @@ const listaDeProjetos = [
     {
         id: '3',
         titulo: 'Sudoku Online',
-        img: 'https://matheusag16.github.io/meu-portifolio/images/sudoku-intro.jpg',
+        img: 'https://i.imgur.com/nJZ3muP.jpeg',
         link: 'https://matheusag16.github.io/Sudoku/',
         breveDescricao: 'Gerador de Sudoku com níveis de dificuldade.',
         descricao: ''
@@ -26,7 +26,7 @@ const listaDeProjetos = [
     {
         id: '4',
         titulo: 'Lista de Tarefas',
-        img: 'https://matheusag16.github.io/meu-portifolio/images/to-do-list-intro.jpg',
+        img: 'https://i.imgur.com/ENSSsNJ.jpeg',
         link: 'https://matheusag16.github.io/To-do-List/',
         breveDescricao: 'Organize suas tarefas em um só lugar.',
         descricao: ''
@@ -34,7 +34,7 @@ const listaDeProjetos = [
     {
         id: '5',
         titulo: 'Projeto Android',
-        img: 'https://matheusag16.github.io/meu-portifolio/images/projeto-android.png',
+        img: 'https://imgur.com/Plzw4Yd',
         link: 'https://matheusag16.github.io/projeto-android/',
         breveDescricao: 'Tudo sobre o Android: história, conceitos e evolução.',
         descricao: ''
@@ -50,7 +50,7 @@ const listaDeProjetos = [
     {
         id: '7',
         titulo: 'Projeto Social',
-        img: 'https://matheusag16.github.io/meu-portifolio/images/projeto-redes-sociais.png',
+        img: 'https://i.imgur.com/BYwGtTJ.jpeg',
         link: 'https://matheusag16.github.io/Projeto-Social/',
         breveDescricao: 'Explore minhas redes sociais em uma interface interativa de iPhone.',
         descricao: ''
@@ -58,7 +58,7 @@ const listaDeProjetos = [
     {
         id: '8',
         titulo: 'Projeto Cordel',
-        img: 'https://matheusag16.github.io/meu-portifolio/images/projeto-cordel.png',
+        img: 'https://i.imgur.com/czR0k5Z.jpeg',
         link: 'https://matheusag16.github.io/projeto-cordel/',
         breveDescricao: 'Descubra a magia da literatura de cordel.',
         descricao: ''

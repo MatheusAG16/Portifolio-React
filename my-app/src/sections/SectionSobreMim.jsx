@@ -8,7 +8,7 @@ function SectionSobreMim() {
             <section className={layoutStyles.section}>
                 <div className={stylesSobreMim.containerSobreMim}>
                     <Titulo>Quem é Matheus?</Titulo>
-                    <p className={stylesSobreMim.paragrafoSobreMim}>Sou Desenvolvedor Front-End Freelancer, estudante de Analise e Desenvolvimento de Sistemas e apaixonado por escrever códigos!<br/></p>
+                    <p className={stylesSobreMim.paragrafoSobreMim}>Estudante de Análise e Desenvolvimento de Sistemas, desenvolvedor Front-End com React e apaixonado por escrever códigos!<br/></p>
                     <hr/>
                 </div>
                 <AnimaAoAparecer>

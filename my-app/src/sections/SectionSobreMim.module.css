@@ -18,7 +18,7 @@ hr {
 .imagemSobreMim {
     border-radius: 25px;
     animation: flutuar 1.3s infinite alternate;
-    max-width: 100px;
+    max-width: 200px;
     aspect-ratio: 1/1;
 }
 

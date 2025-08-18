@@ -34,7 +34,7 @@ const listaDeProjetos = [
     {
         id: '5',
         titulo: 'Projeto Android',
-        img: 'https://imgur.com/Plzw4Yd',
+        img: 'https://i.imgur.com/Plzw4Yd.jpeg',
         link: 'https://i.imgur.com/k2jAGUH.jpeg',
         breveDescricao: 'Tudo sobre o Android: história, conceitos e evolução.',
         descricao: ''

@@ -42,8 +42,8 @@ const listaDeProjetos = [
     {
         id: '6',
         titulo: 'Gerador de senha',
-        img: 'https://matheusag16.github.io/meu-portifolio/images/gerador-de-senha-intro.jpg',
-        link: 'https://i.imgur.com/ydbta6o.jpeg',
+        img: 'https://i.imgur.com/ydbta6o.jpeg',
+        link: 'https://matheusag16.github.io/meu-portifolio/images/gerador-de-senha-intro.jpg',
         breveDescricao: 'Gere senhas seguras instantaneamente. É só escolher o tamanho.',
         descricao: ''
     },
